@@ -14,7 +14,7 @@ The architecture of the mini honeynet in Azure consists of the following compone
 - Azure Storage Account
 - Microsoft Sentinel
 
-## Attack Maps Before Hardening / Security Controls
+## Attack Maps
 ![NSG Allowed Inbound Malicious Flows](https://github.com/4am-walking/Azure-SOC-Honeynet/blob/main/imgs/NSG%20Allowed%20In.PNG)<br>
 ![Linux Syslog Auth Failures](https://github.com/4am-walking/Azure-SOC-Honeynet/blob/main/imgs/Linux%20SSH%20Fail.PNG)<br>
 ![Windows RDP Auth Failures](https://github.com/4am-walking/Azure-SOC-Honeynet/blob/main/imgs/Windows%20RDP%20Fail.PNG)<br>
